@@ -1,0 +1,4 @@
+AndroidBackButton.MainActivity, AndroidBackButton;md5e7c19afe60668089a349aa50e024a066.MainActivity
+AndroidBackButton.MainActivity, AndroidBackButton, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e7c19afe60668089a349aa50e024a066.MainActivity
+AndroidBackButton.MainActivity;md5e7c19afe60668089a349aa50e024a066.MainActivity
+androidbackbutton.MainActivity;md5e7c19afe60668089a349aa50e024a066.MainActivity
